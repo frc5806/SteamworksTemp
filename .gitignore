@@ -12,7 +12,7 @@
 hs_err_pid*
 
 # Eclipse configuration directory
-/.metadata/
+.metadata/
 
 #Eclipse files
 .classpath
